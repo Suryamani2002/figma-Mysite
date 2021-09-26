@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/figma-Mysite/static/css/main.bd5394a1.chunk.css",
+    "main.js": "/figma-Mysite/static/js/main.cc3aef23.chunk.js",
+    "main.js.map": "/figma-Mysite/static/js/main.cc3aef23.chunk.js.map",
+    "runtime-main.js": "/figma-Mysite/static/js/runtime-main.bf03583d.js",
+    "runtime-main.js.map": "/figma-Mysite/static/js/runtime-main.bf03583d.js.map",
+    "static/js/2.1b66af6c.chunk.js": "/figma-Mysite/static/js/2.1b66af6c.chunk.js",
+    "static/js/2.1b66af6c.chunk.js.map": "/figma-Mysite/static/js/2.1b66af6c.chunk.js.map",
+    "static/js/3.93777f63.chunk.js": "/figma-Mysite/static/js/3.93777f63.chunk.js",
+    "static/js/3.93777f63.chunk.js.map": "/figma-Mysite/static/js/3.93777f63.chunk.js.map",
+    "index.html": "/figma-Mysite/index.html",
+    "static/css/main.bd5394a1.chunk.css.map": "/figma-Mysite/static/css/main.bd5394a1.chunk.css.map",
+    "static/js/2.1b66af6c.chunk.js.LICENSE.txt": "/figma-Mysite/static/js/2.1b66af6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf03583d.js",
+    "static/js/2.1b66af6c.chunk.js",
+    "static/css/main.bd5394a1.chunk.css",
+    "static/js/main.cc3aef23.chunk.js"
+  ]
+}
